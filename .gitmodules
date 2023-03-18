@@ -1,0 +1,6 @@
+[submodule "llama.cpp"]
+	path = llama.cpp
+	url = https://github.com/ggerganov/llama.cpp
+[submodule ".openai-git-hooks"]
+	path = .openai-git-hooks
+	url = https://github.com/Zhima-Mochi/git-templates-hooks.git
